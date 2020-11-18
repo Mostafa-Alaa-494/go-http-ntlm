@@ -7,7 +7,7 @@ import (
 	"net/http"
 	"strings"
 
-	"github.com/vadimi/go-ntlm/ntlm"
+	"github.com/Mostafa-Alaa-494/go-ntlm/tree/master/ntlm"
 )
 
 // NtlmTransport is implementation of http.RoundTripper interface

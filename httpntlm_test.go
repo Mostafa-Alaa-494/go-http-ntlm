@@ -7,7 +7,7 @@ import (
 	"strings"
 	"testing"
 
-	"github.com/vadimi/go-ntlm/ntlm"
+	"github.com/Mostafa-Alaa-494/go-ntlm/tree/master/ntlm"
 )
 
 func Test_AuthenticationSuccess(t *testing.T) {
